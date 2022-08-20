@@ -1,5 +1,4 @@
-from textwrap import fill
-from turtle import width
+
 import numpy as np
 import matplotlib.pyplot as py
 import matplotlib.patches as patch
